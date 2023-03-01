@@ -1,7 +1,7 @@
 # pbkk-blazor-dotnet-maui
 
 Jalannya aplikasi :
-- system menjalankan file `MauiProgram.cs`
+- system menjalankan file `BlazorHybridApp.sln`
 - kemudian isi dan fungsi dari setiap page berada pada folder `Pages`
 - untuk mengatur navigasi ke setiap halaman pada file `NavMenu.razor` pada folder `Shared`
 
